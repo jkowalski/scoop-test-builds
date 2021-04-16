@@ -1,0 +1,15 @@
+{
+    "version": "20210415.0.212627",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/jkowalski/kopia-test-builds/releases/download/v20210415.0.212627/kopia-20210415.0.212627-windows-x64.zip",
+            "bin": [
+                "kopia-20210415.0.212627-windows-x64/kopia.exe"
+            ],
+            "hash": ""
+        }
+    },
+    "homepage": "https://kopia.io/",
+    "license": "Apache-2.0",
+    "description": "Fast and secure open source backup."
+}
